@@ -1,6 +1,5 @@
 # Awesome Papers on LLM-Driven Agents
-[**English Version**](#introduction-to-llm-driven-agents) | [**中文版**](#[llm-驱动智能体研究精选论文集](https://github.com/Mingyue-Cheng/Awesome-Papers-LLM-Driven-Agent/blob/main/README.md))
-
+【中文】（https://github.com/Mingyue-Cheng/Awesome-Papers-LLM-Driven-Agent/blob/main/README.md）
 
 This repository curates a collection of cutting-edge research papers on **Large Language Model (LLM)-driven agents**, with a focus on their theoretical foundations, technological advancements, and practical applications. 
 
