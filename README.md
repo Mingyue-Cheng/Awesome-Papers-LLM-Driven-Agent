@@ -1,5 +1,8 @@
 # Awesome Papers on LLM-Driven Agents
 
+![Logo 设计](https://github.com/user-attachments/assets/ee4d1715-1a7d-44cf-8693-4326347c42c5)
+
+
 This repository curates a collection of cutting-edge research papers on **Large Language Model (LLM)-driven agents**, with a focus on their theoretical foundations, technological advancements, and practical applications. 
 
 ## Definition of an Agent
