@@ -1,7 +1,3 @@
-以下是将 **Key Paper** 改为 **Related Paper** 并更新后的版本：
-
----
-
 # Awesome Papers on LLM-Driven Agents
 
 This repository curates a collection of cutting-edge research papers on **Large Language Model (LLM)-driven agents**, with a focus on their theoretical foundations, technological advancements, and practical applications. 
