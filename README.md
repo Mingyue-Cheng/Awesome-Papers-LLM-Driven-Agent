@@ -1,7 +1,3 @@
-Here's a professional and insightful README for your "Awesome Papers on LLM-driven Agents" repository:
-
----
-
 # Awesome Papers on LLM-Driven Agents
 
 This repository curates a collection of cutting-edge research papers on **Large Language Model (LLM)-driven agents**, with a focus on their theoretical foundations, technological advancements, and practical applications. 
