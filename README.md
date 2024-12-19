@@ -1,7 +1,3 @@
-以下是添加了语言切换入口的 README：
-
----
-
 # LLM-Driven Agent Research Papers | **LLM 驱动的智能体研究精选论文集**
 
 [**English Version**](#introduction-to-llm-driven-agents) | [**中文版**](#llm-驱动智能体研究精选论文集)
